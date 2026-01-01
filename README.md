@@ -1,11 +1,6 @@
-### I love GItHub Copilot and use it witj Sonnet 4 at the moment - amazing! 👋
+### I love GItHub Copilot and use mostly it with Claude Sonnet 4.5 at the moment - amazing! 👋
 
-🔭 I’m currently working on YouCent app!
-
-https://github.com/YouCentApp
-
-www.youcent.app
-
+🔭 I’m currently working on YouCent apps - Promise and Podium!
 
 
 <!--
