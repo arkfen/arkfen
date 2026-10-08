@@ -1,7 +1,13 @@
 ### I love GItHub Copilot and use mostly it with Claude Sonnet at the moment - it's amazing! 👋
 
-🔭 I’m currently working on YouCent apps - Promise and Podium!
+🔭 I’m currently working on YouCent apps - Promise and Podium! 
+Also maintaining simple template for MAUI-Blazor as a good jump start ))
 
+https://github.com/YouCentApps/Promise
+
+https://github.com/YouCentApps/Podium
+
+https://github.com/YouCentApps/Template
 
 <!--
 **arkfen/arkfen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
